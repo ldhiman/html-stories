@@ -28,7 +28,7 @@ Note: JQuery is needed;
 
 
 3. call a class function like:
-        story = new Story(storylist (array of stories), 30 (number of second));
+        story = new Story(storylist //array of stories, 30 //number of second);
         story.init();   // init to add story to story-holder
 
 
