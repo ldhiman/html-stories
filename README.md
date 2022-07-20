@@ -23,8 +23,8 @@ Note: JQuery is needed;
              }
             ];
 
-2. create a div with class as story-holder like: 
-        <div class="story-holder"></div>
+2. create a div with class as story-holder like:  [<div class="story-holder"></div>]
+        
 
 
 3. call a class function like:
